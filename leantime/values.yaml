@@ -170,7 +170,7 @@ leantime:
       ## OIDC Scopes
       #scopes: ""
       ## Override Fields names
-      fields:
+      fields: {}
         ## Email
         #email: ""
         ## First Name
